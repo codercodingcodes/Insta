@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+}
+.title{
+    font-family: 'Fascinate Inline', cursive;
+    font-size: 200px;
+    color: red;
+}
+.para1{
+    margin-top:500px;
+    font-family: 'Fascinate Inline', cursive;
+    color: red;
+    font-size: 50px;
+    margin-left: 100px;
+}
+.para2{
+    margin-top:300px;
+    font-family: 'Fascinate Inline', cursive;
+    color: red;
+    font-size: 150px;
+    margin-left: 100px;
+}
